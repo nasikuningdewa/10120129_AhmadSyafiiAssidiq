@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">10120129_AhmadSyafiiAssidiq</string>
+    <string name="data_diri">NIM: 10120129\nNama: Ahmad Syafii Assidiq\nKelas: IF-4\nEmail: ahmad.10120129@mahasiswa.unikom.ac.id</string>
+    <string name="pembuka"> Diary adalah sebuah aplikasi sederhana yang dapat mencatat keseharian mu di aplikasi ini terdapat fitur tambah data untuk membuat note, tersedia juga untuk fitur edit dan hapus untuk notenya. </string>
+    <string name="menu_home"> tersedia menu Home untuk melihat daftar note yang telah ditulis </string>
+    <string name="menu_profile"> tersedia menu profiile untuk melihat data diri pengembang aplikasi </string>
+    <string name="menu_info">tersedia menu informasi untuk mengetahui seputar aplikasi Diary</string>
+    <string name="copyright">10120129 | May 2023</string>
+
+    <string name="judul">Title</string>
+    <string name="kategori">Category</string>
+    <string name="isi">Start typing</string>
+
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="txt_add">Add note</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
